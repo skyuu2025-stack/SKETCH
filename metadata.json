@@ -1,0 +1,7 @@
+{
+  "name": "手绘服装设计大师课件",
+  "description": "一份包含10个课时的专业服装手绘效果图与款式图教学课件，采用现代UI设计，支持图文展示与AI辅助指导。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
